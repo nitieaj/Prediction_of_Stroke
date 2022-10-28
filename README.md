@@ -1,4 +1,4 @@
-## Project-1_Prediction_of_Stroke
+## Prediction_of_Stroke
 ### Description
 ### Content
 
